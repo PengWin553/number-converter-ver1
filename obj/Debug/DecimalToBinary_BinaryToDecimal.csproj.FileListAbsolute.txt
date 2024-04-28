@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\C# Projects\DecimalToBinary_BinaryToDecimal\bin\Debug\DecimalToBinary_BinaryToDecimal.exe.config
+C:\Users\user\Desktop\C# Projects\DecimalToBinary_BinaryToDecimal\bin\Debug\DecimalToBinary_BinaryToDecimal.exe
+C:\Users\user\Desktop\C# Projects\DecimalToBinary_BinaryToDecimal\bin\Debug\DecimalToBinary_BinaryToDecimal.pdb
+C:\Users\user\Desktop\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.BinaryToDecimal.resources
+C:\Users\user\Desktop\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.DecimalToBinary.resources
+C:\Users\user\Desktop\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.Form1.resources
+C:\Users\user\Desktop\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.Properties.Resources.resources
+C:\Users\user\Desktop\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.exe
+C:\Users\user\Desktop\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.pdb
+C:\Users\user\Desktop\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.DecimalToHexadecimal.resources
+C:\Users\user\Desktop\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.HexadecimalToDecimal.resources
+C:\Users\user\Desktop\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.HexadecimalToBinary.resources
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\DecimalToBinary_BinaryToDecimal\bin\Debug\DecimalToBinary_BinaryToDecimal.exe.config
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\DecimalToBinary_BinaryToDecimal\bin\Debug\DecimalToBinary_BinaryToDecimal.exe
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\DecimalToBinary_BinaryToDecimal\bin\Debug\DecimalToBinary_BinaryToDecimal.pdb
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.csproj.AssemblyReference.cache
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.BinaryToDecimal.resources
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.DecimalToBinary.resources
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.DecimalToHexadecimal.resources
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.Form1.resources
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.HexadecimalToBinary.resources
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.HexadecimalToDecimal.resources
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.Properties.Resources.resources
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.csproj.GenerateResource.cache
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.exe
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\DecimalToBinary_BinaryToDecimal\obj\Debug\DecimalToBinary_BinaryToDecimal.pdb
